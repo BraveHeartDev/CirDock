@@ -1,0 +1,9 @@
+Package: com.braveheart.cirdock
+Name: Cirdock
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Description: An amazing tweak that evolutionizes the device's dock!
+Maintainer: Brave Heart
+Author: Brave Heart
+Section: Tweaks
+Version: 1.2.0

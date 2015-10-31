@@ -1,0 +1,10 @@
+#!/bin/bash
+file="/var/mobile/Library/CirDockFirstRun"
+if [ -f "$file" ] ; then
+rm "$file"
+fi
+echo "
+---------------------------------------------
+Thanks for supporting the developer by purchasing CirDock. Enjoy the tweak and contact the developer if you have any new feature suggestions or find any bugs! :)
+---------------------------------------------
+"
